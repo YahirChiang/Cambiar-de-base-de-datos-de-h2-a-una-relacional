@@ -8,3 +8,4 @@
 
 ## Base de Datos PostgresSQL
 
+![Captura de Pantalla de la Aplicación](https://github.com/YahirChiang/Cambiar-de-base-de-datos-de-h2-a-una-relacional/blob/main/BD.jpg)
